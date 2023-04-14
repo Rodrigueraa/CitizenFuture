@@ -1,25 +1,42 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Citizen Future
 
-Breve descrição do que o seu projeto faz.
+O aplicativo Citizen Future é projetado para fornecer informações sobre empresas que adotam o modelo ESG e os benefícios que elas oferecem ao meio ambiente.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+539234, Rodrigo Cauã, Redes de Computadores
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+Os usuários não registrados podem visualizar informações básicas sobre as empresas e seus benefícios, enquanto os usuários registrados têm acesso a informações detalhadas, recursos adicionais. 
+O Gerenciador pode adicionar, remover e editar informações sobre empresas e benefícios.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Usuário
+Empresa
+Benefício
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+*Funcionalidades acessíveis a todos os usuários:
 
+Visualizar informações sobre empresas que adotam o modelo ESG e seus benefícios ao meio ambiente;
+Pesquisar empresas por nome, setor ou localização;
+Ver detalhes sobre cada empresa, incluindo sua história e metas ambientais.
+
+*Funcionalidades acessíveis apenas a usuários logados:
+
+Comentar e avaliar empresas;
+Salvar empresas favoritas para acesso rápido e fácil;
+Receber atualizações sobre novas empresas adicionadas ao aplicativo.
+
+*Funcionalidades acessíveis para o gerenciador:
+
+Adicionar e remover empresas do aplicativo;
+Editar informações sobre as empresas, como sua história e metas ambientais;
+Moderação de comentários e avaliações de usuários;
+Gerenciar a atualização do conteúdo do aplicativo.
 
 ----
 
